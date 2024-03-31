@@ -1,0 +1,42 @@
+# numpy
+# llvmlite
+# numba
+# torch>=1.1
+# tensorboardX
+# easydict
+# pyyaml
+# scikit-image
+# tqdm
+# torchvision
+# SharedArray
+# opencv-python
+# pyquaternion
+
+numpy==1.24.4
+llvmlite
+numba
+
+torch==2.0.0
+torchvision==0.15.1
+torchaudio==2.0.1
+
+tensorboardX
+easydict
+pyyaml
+scikit-image
+tqdm
+SharedArray==3.1
+six
+
+torch_geometric
+mayavi
+spconv-cu117
+
+opencv-python==4.5.1.48
+pyquaternion
+kornia==0.6.5
+av2
+vtk==9.0.1
+pyqt5
+tensorboard
+open3d
