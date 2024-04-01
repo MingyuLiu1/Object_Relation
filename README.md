@@ -1,7 +1,9 @@
 # Object Relations for 3D Object Detection
 
 This work focuses on exploring the impact of modeling object relation in two-stage object detection pipelines, aiming to enhance their detection performance. It extends OpenPCDet with a module that models object relations which can be integrated into existing object detectors. To get this project running please check [OpenPCDet](https://github.com/open-mmlab/OpenPCDet).
- 
+<p align="center">
+<img src="resources/pipeline.pdf"/>
+</p>
 
 ## Project Structure
 
